@@ -64,3 +64,9 @@ OliveCode has no subscription or usage cap of its own. Cloud providers retain th
 **Stuck?** [Setup guide](https://olivecode.dev/guide) · [First-run feedback](https://github.com/BenjaminZajko/opencodeFORK/issues/new?template=olivecode-first-run.yml)
 
 Report your OS, OliveCode version, chosen model, test output and what happened. Do not post tokens, private project files or personal information.
+
+## Verify a patch with any coding agent
+
+The [verify-a-patch skill](skills/verify-a-patch/SKILL.md) is a portable review workflow: establish a baseline, inspect the actual diff, preserve the original checks, and report only results that were run. It has no service, signup, or OliveCode dependency. Read it directly or use your agent's supported skill loader.
+
+Want to help improve the first run? [Follow the task and send feedback](https://olivecode.dev/try). GitHub feedback is public; the page also offers private email feedback.
